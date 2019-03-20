@@ -6,7 +6,7 @@ ability for multiple applications to co-exist on mochiweb
 listeners. Applications can register static docroots or dynamic
 handlers to be executed, dispatched by URL path prefix.
 
-See http://www.rabbitmq.com/mochiweb.html for information on
+See https://www.rabbitmq.com/mochiweb.html for information on
 configuring web plugins.
 
 The most general registration procedure is
